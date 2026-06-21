@@ -1,0 +1,6 @@
+spark_env/
+hadoop-3.3.6.tar.gz
+*.tar.gz
+*.jar
+__pycache__/
+*.pyc
