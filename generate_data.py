@@ -17,6 +17,8 @@ products = [
     ("P012", "Office Chair", "Furniture", 249.99),
     ("P013", "Face Cream", "Beauty", 34.99),
     ("P014", "Shampoo", "Beauty", 12.99),
+    ("P015", "oil", "Beauty", 12.99),
+    
 ]
 
 cities = [
